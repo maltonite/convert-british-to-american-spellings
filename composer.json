@@ -4,5 +4,10 @@
     "type": "package",
     "license": "mit",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maltonite\\AmericanBritish\\": "src/AmericanBritish/"
+        }
+    }
 }
