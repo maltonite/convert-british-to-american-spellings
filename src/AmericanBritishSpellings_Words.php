@@ -5,7 +5,7 @@
 					Class for building word lists for converting UK/US english dialects.
 					
 				*/
-
+namespace Maltonite\AmericanBritish;
 	class AmericanBritishSpellings_Words {
 
 		protected $british_to_american_spellings;

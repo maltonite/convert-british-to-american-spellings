@@ -1,5 +1,7 @@
 <?php
-				
+
+namespace Maltonite\AmericanBritish;
+
 				/* AmericanBritishSpellings
 					
 					Class for converting text from US/UK spellings to US/UK spellings.
