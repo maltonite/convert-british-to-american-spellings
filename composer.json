@@ -1,7 +1,7 @@
 {
     "name": "maltonite/american-british",
     "description": "Convert American English to British English and vice versa",
-    "type": "library",
+    "type": "package",
     "license": "mit",
     "minimum-stability": "dev",
     "require": {}
